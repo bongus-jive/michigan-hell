@@ -1,0 +1,16 @@
+[
+	{
+		"op" : "replace",
+		"path" : "/visitableTypeDescription/hellishplanet",
+		"value" : [
+			"A putrid planet similar to Michigan. The landing site is ^red;horrible^white;.",
+			"This planet seems to have come from 'Michigan' itself. This ^red;place sucks^white;.",
+			"The beam site is situated in ^#e5004c;Michigan^white; and is ^red;exquisitely terrible^white;. "
+		]
+	},
+	{
+		"op" : "replace",
+		"path" : "/planetTypeNames/hellishplanet",
+		"value" : "Michigan"
+	}
+]

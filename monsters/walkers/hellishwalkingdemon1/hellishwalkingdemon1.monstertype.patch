@@ -1,0 +1,12 @@
+[
+	{
+		"op" : "replace",
+		"path" : "/shortdescription",
+		"value" : "Michigan Citizen"
+	},
+	{
+		"op" : "replace",
+		"path" : "/description",
+		"value" : "This poor soul lives in Michigan.",
+	}
+]

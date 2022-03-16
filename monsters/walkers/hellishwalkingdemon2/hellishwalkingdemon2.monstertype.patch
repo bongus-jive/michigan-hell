@@ -1,0 +1,12 @@
+[
+	{
+		"op" : "replace",
+		"path" : "/shortdescription",
+		"value" : "Michigan Summoner"
+	},
+	{
+		"op" : "replace",
+		"path" : "/description",
+		"value" : "The Summoner is a force to be reckoned with.. It can summon Michigan citizens to aid itself in battle.",
+	}
+]

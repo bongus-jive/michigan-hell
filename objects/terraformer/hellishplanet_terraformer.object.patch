@@ -1,0 +1,12 @@
+[
+	{
+		"op" : "replace",
+		"path" : "/shortdescription",
+		"value" : "Michigan Terraformer"
+	},
+	{
+		"op" : "replace",
+		"path" : "/description",
+		"value" : "Transforms a planet's climate into something kinda like Michigan."
+	}
+]
